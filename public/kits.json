@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sf-1200",
+    "name": "Starter Kit — SF‑1200",
+    "tagline": "Fast, clean shell for ADUs & small homes",
+    "price": 89000,
+    "img": "https://picsum.photos/seed/spaceframe1/1200/700",
+    "leadTimeWeeks": 6,
+    "footprint": "24' x 40' (960 ft²)",
+    "envelopeArea": "~3,250 ft²",
+    "bays": 6,
+    "grid": "8' module",
+    "clearSpan": "24'",
+    "roofOptions": [
+      "Gable",
+      "Mono‑slope"
+    ],
+    "cladding": [
+      "Metal panel",
+      "Cedar rainscreen",
+      "Stucco"
+    ],
+    "steel": "ASTM A500 Grade B / A36 nodes",
+    "finish": "Hot‑dip galvanized + powder‑coat (RAL options)",
+    "designLoads": "Roof: 30 psf • Wind: 110 mph (ASCE 7‑16) • Seismic: D1/D2",
+    "energy": "R‑30 roof / R‑21 wall compatible assemblies",
+    "shippingWeight": "~7,200 lb",
+    "crew": "3–4 ppl, 2–3 days to dry‑in",
+    "tools": "Impact driver, ratchets, laser level, 2 ladders",
+    "warrantyYears": 15
+  },
+  {
+    "id": "sf-1800",
+    "name": "Builder Kit — SF‑1800",
+    "tagline": "Family plan with expanded span & bay count",
+    "price": 129000,
+    "img": "https://picsum.photos/seed/spaceframe2/1200/700",
+    "leadTimeWeeks": 8,
+    "footprint": "30' x 60' (1,800 ft²)",
+    "envelopeArea": "~5,900 ft²",
+    "bays": 10,
+    "grid": "10' module",
+    "clearSpan": "30'",
+    "roofOptions": [
+      "Gable",
+      "Mono‑slope",
+      "Clerestory"
+    ],
+    "cladding": [
+      "Metal panel",
+      "Fiber‑cement",
+      "Brick veneer"
+    ],
+    "steel": "ASTM A500 Grade C / A572 nodes",
+    "finish": "Hot‑dip galvanized + powder‑coat (custom)",
+    "designLoads": "Roof: 40 psf • Wind: 130 mph • Seismic: D2",
+    "energy": "R‑38 roof / R‑23 wall compatible assemblies",
+    "shippingWeight": "~12,500 lb",
+    "crew": "4–5 ppl, 4–5 days to dry‑in",
+    "tools": "Impact wrenches, laser level, 2 scaffolds",
+    "warrantyYears": 20,
+    "bestSeller": true
+  },
+  {
+    "id": "sf-2400",
+    "name": "Pro Kit — SF‑2400",
+    "tagline": "Developer‑grade speed with premium spans",
+    "price": 169000,
+    "img": "https://picsum.photos/seed/spaceframe3/1200/700",
+    "leadTimeWeeks": 10,
+    "footprint": "40' x 60' (2,400 ft²)",
+    "envelopeArea": "~7,600 ft²",
+    "bays": 12,
+    "grid": "10' module",
+    "clearSpan": "40'",
+    "roofOptions": [
+      "Gable",
+      "Mono‑slope",
+      "Sawtooth",
+      "Green roof‑ready"
+    ],
+    "cladding": [
+      "High‑rib metal",
+      "Composite panel",
+      "EIFS"
+    ],
+    "steel": "ASTM A500 Grade C / A572 nodes",
+    "finish": "HDG + architectural powder‑coat (project palette)",
+    "designLoads": "Roof: 50 psf • Wind: 140 mph • Seismic: D2",
+    "energy": "R‑49 roof / R‑24 wall compatible assemblies",
+    "shippingWeight": "~16,800 lb",
+    "crew": "5–6 ppl, 5–7 days to dry‑in",
+    "tools": "Torque‑controlled impacts, lasers, small telehandler",
+    "warrantyYears": 25,
+    "premium": true
+  }
+]
